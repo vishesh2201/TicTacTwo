@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacTwo</string>
+    <string name="grid">grid</string>
+    <string name="header">header</string>
+    <string name="tic_tac_two">Tic-Tac-Two</string>
+    <string name="light_mode_selector">light mode selector</string>
+    <string name="information_button">information button</string>
+    <string name="tap_to_play">Tap to Play!</string>
+    <string name="restart_game">Play Again</string>
+    <string name="showinfo" />
+    <string name="about">made by Vishesh Arjun</string>
+</resources>
